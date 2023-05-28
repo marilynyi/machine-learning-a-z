@@ -21,7 +21,7 @@ The course aims to fulfill the following learning objectives:
 
 Python codes and Jupyter Notebooks files past the current progress are default provided by the course. Coding alterations are made to files as I work through the lessons.
 
-- **Part 1 - Data Preprocessing** ⬅️
+- **Part 1 - Data Preprocessing** ✅
 - **Part 2 - Regression**
   - Simple Linear Regression
   - Multiple Linear Regression
