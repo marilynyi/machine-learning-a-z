@@ -23,7 +23,7 @@ Python codes and Jupyter Notebooks files past the current progress are default p
 
 - **Part 1 - Data Preprocessing** ✅
 - **Part 2 - Regression**
-  - Simple Linear Regression
+  - Simple Linear Regression ✅
   - Multiple Linear Regression
   - Polynomial Regression
   - SVR
