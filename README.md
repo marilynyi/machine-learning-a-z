@@ -1,6 +1,6 @@
 # Overview
 
-This repository houses all Python and Jupyter Notebooks projects provided by the [Machine Learning A-Z course](https://www.udemy.com/course/machinelearning/) on Udemy.
+This repository houses all Jupyter Notebooks projects I have written during the [Machine Learning A-Z course](https://www.udemy.com/course/machinelearning/) on Udemy.
 
 The course aims to fulfill the following learning objectives:
 
@@ -19,7 +19,7 @@ The course aims to fulfill the following learning objectives:
 
 # Current Progress
 
-Python codes and Jupyter Notebooks files past the current progress are default provided by the course. Coding alterations are made to files as I work through the lessons.
+Jupyter Notebooks are personally written while Python data files are provided by the course.
 
 - **Part 1 - Data Preprocessing** ✅
 - **Part 2 - Regression**
