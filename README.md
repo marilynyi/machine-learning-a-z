@@ -24,7 +24,7 @@ Jupyter Notebooks are personally written while Python data files are provided by
 - **Part 1 - Data Preprocessing** ✅
 - **Part 2 - Regression**
   - Simple Linear Regression ✅
-  - Multiple Linear Regression
+  - Multiple Linear Regression ✅
   - Polynomial Regression
   - SVR
   - Decision Tree Regression
