@@ -24,8 +24,8 @@ Jupyter Notebooks are personally written while Python data files are provided by
 - **Part 1 - Data Preprocessing** 
   - [Data Preprocessing Tools](https://github.com/marilynyi/machine-learning-a-z/blob/main/01-data-preprocessing/01_data_preprocessing_tools.ipynb) ✅
 - **Part 2 - Regression**
-  - [Simple Linear Regression - Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_01_simple_linear_regression/salary_prediction.ipynb) ✅
-  - [Multiple Linear Regression - Startup Profit Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_02_multiple_linear_regression/profit-prediction-of-startup.ipynb) ✅
+  - [Simple Linear Regression: Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_01_simple_linear_regression/salary_prediction.ipynb) ✅
+  - [Multiple Linear Regression: Startup Profit Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_02_multiple_linear_regression/profit-prediction-of-startup.ipynb) ✅
   - Polynomial Regression
   - SVR
   - Decision Tree Regression
