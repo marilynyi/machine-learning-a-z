@@ -19,7 +19,7 @@ This repository houses all Jupyter Notebooks projects I have written during the 
 
 # Current Progress
 
-Jupyter Notebooks are personally written while .csv data files are provided by the course.
+Jupyter Notebooks and Python files are personally written while .csv data files are provided by the course.
 
 - **Part 1 - Data Preprocessing** 
   - [Data Preprocessing Tools](https://github.com/marilynyi/machine-learning-a-z/tree/main/01-data-preprocessing) 
