@@ -26,7 +26,7 @@ Jupyter Notebooks are personally written while Python data files are provided by
 - **Part 2 - Regression**
   - [Simple Linear Regression: Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_01_simple_linear_regression/salary_prediction.ipynb) 
   - [Multiple Linear Regression: Startup Profit Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_02_multiple_linear_regression/profit-prediction-of-startup.ipynb) 
-  - [Polynomial Regression: Salary Prediction for Position Level](https://github.com/marilynyi/machine-learning-a-z/blob.main/02_regression/02_03_polynomial_regression/salary_prediction_for_position_level.ipynb))
+  - [Polynomial Regression: Salary Prediction for Position Level](https://github.com/marilynyi/machine-learning-a-z/blob.main/02_regression/02_03_polynomial_regression/salary_prediction_for_position_level.ipynb)
   - SVR
   - Decision Tree Regression
   - Random Forest Regression
