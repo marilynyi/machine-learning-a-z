@@ -2,31 +2,31 @@
 
 This repository houses all Jupyter Notebooks projects I have written during the [Machine Learning A-Z course](https://www.udemy.com/course/machinelearning/) on Udemy.
 
-The course aims to fulfill the following learning objectives:
-
-- What you’ll learn
-- Master Machine Learning on Python & R
-- Have a great intuition of many Machine Learning models
-- Make accurate predictions
-- Make powerful analysis
-- Make robust Machine Learning models
-- Create strong added value to your business
-- Use Machine Learning for personal purpose
-- Handle specific topics like Reinforcement Learning, NLP and Deep Learning
-- Handle advanced techniques like Dimensionality Reduction
-- Know which Machine Learning model to choose for each type of problem
-- Build an army of powerful Machine Learning models and know how to combine them to solve any problem
+>The course aims to fulfill the following learning objectives:
+>
+>- What you’ll learn
+>- Master Machine Learning on Python & R
+>- Have a great intuition of many Machine Learning models
+>- Make accurate predictions
+>- Make powerful analysis
+>- Make robust Machine Learning models
+>- Create strong added value to your business
+>- Use Machine Learning for personal purpose
+>- Handle specific topics like Reinforcement Learning, NLP and Deep Learning
+>- Handle advanced techniques like Dimensionality Reduction
+>- Know which Machine Learning model to choose for each type of problem
+>- Build an army of powerful Machine Learning models and know how to combine them to solve any problem
 
 # Current Progress
 
 Jupyter Notebooks are personally written while Python data files are provided by the course.
 
 - **Part 1 - Data Preprocessing** 
-  - [Data Preprocessing Tools](https://github.com/marilynyi/machine-learning-a-z/blob/main/01-data-preprocessing/01_data_preprocessing_tools.ipynb) ✅
+  - [Data Preprocessing Tools](https://github.com/marilynyi/machine-learning-a-z/blob/main/01-data-preprocessing/01_data_preprocessing_tools.ipynb) 
 - **Part 2 - Regression**
-  - [Simple Linear Regression: Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_01_simple_linear_regression/salary_prediction.ipynb) ✅
-  - [Multiple Linear Regression: Startup Profit Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_02_multiple_linear_regression/profit-prediction-of-startup.ipynb) ✅
-  - Polynomial Regression
+  - [Simple Linear Regression: Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_01_simple_linear_regression/salary_prediction.ipynb) 
+  - [Multiple Linear Regression: Startup Profit Prediction](https://github.com/marilynyi/machine-learning-a-z/blob/main/02-regression/02_02_multiple_linear_regression/profit-prediction-of-startup.ipynb) 
+  - [Polynomial Regression: Salary Prediction for Position Level](https://github.com/marilynyi/machine-learning-a-z/blob.main/02_regression/02_03_polynomial_regression/salary_prediction_for_position_level.ipynb))
   - SVR
   - Decision Tree Regression
   - Random Forest Regression
