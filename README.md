@@ -1,6 +1,6 @@
 # Overview
 
-This repository houses all Jupyter Notebooks projects I have written during the [Machine Learning A-Z course](https://www.udemy.com/course/machinelearning/) on Udemy.
+This repository houses all guided projects I have written during the [Machine Learning A-Z course](https://www.udemy.com/course/machinelearning/) on Udemy.
 
 >The course aims to fulfill the following learning objectives:
 >
