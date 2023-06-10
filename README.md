@@ -27,7 +27,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Simple Linear Regression: Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02_01_simple_linear_regression) 
   - [Multiple Linear Regression: Startup Profit Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02_02_multiple_linear_regression) 
   - [Polynomial Regression: Salary Prediction for Position Level](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02_03_polynomial_regression)
-  - SVR
+  - [SVR: Salary Prediction for Position Level](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02_04_support_vector_regression)
   - Decision Tree Regression
   - Random Forest Regression
 - **Part 3 - Classification** 
