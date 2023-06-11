@@ -24,11 +24,11 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
 - **Part 1 - Data Preprocessing** 
   - [Data Preprocessing Tools](https://github.com/marilynyi/machine-learning-a-z/tree/main/01-data-preprocessing) 
 - **Part 2 - Regression**
-  - [Simple Linear Regression: Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02_01_simple_linear_regression) 
-  - [Multiple Linear Regression: Startup Profit Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02_02_multiple_linear_regression) 
-  - [Polynomial Regression: Salary Prediction for Position Level](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02_03_polynomial_regression)
-  - [SVR: Salary Prediction for Position Level](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02_04_support_vector_regression)
-  - Decision Tree Regression
+  - [Simple Linear Regression: Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-01-linear-regression) 
+  - [Multiple Linear Regression: Startup Profit Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-02-multiple-linear-regression) 
+  - [Polynomial Regression: Position Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-03-polynomial-regression)
+  - [SVR: Position Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-04-support-vector-regression)
+  - [Decision Tree Regression: Position Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-05-decision-tree-regression)
   - Random Forest Regression
 - **Part 3 - Classification** 
   - Logistic Regression
