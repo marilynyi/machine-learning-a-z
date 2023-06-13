@@ -29,7 +29,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Polynomial Regression: Position Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-03-polynomial-regression)
   - [SVR: Position Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-04-support-vector-regression)
   - [Decision Tree Regression: Position Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-05-decision-tree-regression)
-  - Random Forest Regression
+  - [Random Forest Regression: Position Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-06-random-forest-regression)
 - **Part 3 - Classification** 
   - Logistic Regression
   - K-NN
