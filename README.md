@@ -32,7 +32,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Random Forest Regression: Position Salary Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/02-regression/02-06-random-forest-regression)
 - **Part 3 - Classification** 
   - [Logistic Regression: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-01-logistic-regression)
-  - K-NN
+  - [K-NN: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-02-k-nearest-neighbors)
   - SVM
   - Kernel SVM
   - Naive Bayes
