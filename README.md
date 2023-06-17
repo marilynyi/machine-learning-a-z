@@ -33,7 +33,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
 - **Part 3 - Classification** 
   - [Logistic Regression: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-01-logistic-regression)
   - [K-NN: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-02-k-nearest-neighbors)
-  - SVM
+  - [SVM: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-03-support-vector-machine)
   - Kernel SVM
   - Naive Bayes
   - Decision Tree Classification
