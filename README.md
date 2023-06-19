@@ -35,7 +35,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [K-NN: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-02-k-nearest-neighbors)
   - [SVM: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-03-support-vector-machine)
   - [Kernel SVM: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-04-kernel-svm)
-  - Naive Bayes
+  - [Naive Bayes: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-05-naive-bayes)
   - Decision Tree Classification
   - Random Forest Classification
 - **Part 4 - Clustering**
