@@ -40,7 +40,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Random Forest Classification: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/03-classification/03-07-random-forest-classification)
 - **Part 4 - Clustering**
   - [K-Means: Mall Customer Patterns](https://github.com/marilynyi/machine-learning-a-z/tree/main/04-clustering/04-01-k-means-clustering)
-  - Hierarchical Clustering
+  - [Hierarchical Clustering: Mall Customer Patterns](https://github.com/marilynyi/machine-learning-a-z/tree/main/04-clustering/04-02-hierarchical-clustering)
 - **Part 5 - Association Rule Learning**
   - Apriori
   - Eclat
