@@ -42,7 +42,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [K-Means: Mall Customer Patterns](https://github.com/marilynyi/machine-learning-a-z/tree/main/04-clustering/04-01-k-means-clustering)
   - [Hierarchical Clustering: Mall Customer Patterns](https://github.com/marilynyi/machine-learning-a-z/tree/main/04-clustering/04-02-hierarchical-clustering)
 - **Part 5 - Association Rule Learning**
-  - Apriori
+  - [Apriori: Market Based Optimization](https://github.com/marilynyi/machine-learning-a-z/tree/main/05-association-rule-learning/05-01-apriori)
   - Eclat
 - **Part 6 - Reinforcement Learning**
   - Upper Confidence Bound
