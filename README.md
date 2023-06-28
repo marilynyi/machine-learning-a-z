@@ -46,7 +46,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Eclat: Market Basket Optimization](https://github.com/marilynyi/machine-learning-a-z/tree/main/05-association-rule-learning/05-02-eclat)
 - **Part 6 - Reinforcement Learning**
   - [Upper Confidence Bound: Ad Clickthrough Rate Optimization](https://github.com/marilynyi/machine-learning-a-z/tree/main/06-reinforcement-learning/06-01-upper-confidence-bound)
-  - Thompson Sampling
+  - [Thompson Sampling: Ad Clickthrough Rate Optimization](https://github.com/marilynyi/machine-learning-a-z/tree/main/06-reinforcement-learning/06-02-thompson-sampling)
 - **Part 7 - Natural Language Processing**
   - Bag-of-words model and algorithms for NLP
 - **Part 8 - Deep Learning**
