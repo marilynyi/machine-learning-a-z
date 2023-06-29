@@ -48,7 +48,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Upper Confidence Bound: Ad Clickthrough Rate Optimization](https://github.com/marilynyi/machine-learning-a-z/tree/main/06-reinforcement-learning/06-01-upper-confidence-bound)
   - [Thompson Sampling: Ad Clickthrough Rate Optimization](https://github.com/marilynyi/machine-learning-a-z/tree/main/06-reinforcement-learning/06-02-thompson-sampling)
 - **Part 7 - Natural Language Processing**
-  - Bag-of-words model and algorithms for NLP
+  - [Bag-of-words model and NLP: Sentiment Analysis of Restaurant Reviews](https://github.com/marilynyi/machine-learning-a-z/tree/main/07-natural-language-processing/)
 - **Part 8 - Deep Learning**
   - Artificial Neural Networks
   - Convolutional Neural Networks
