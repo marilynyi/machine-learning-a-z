@@ -50,7 +50,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
 - **Part 7 - Natural Language Processing**
   - [Bag-of-words model and NLP: Sentiment Analysis of Restaurant Reviews](https://github.com/marilynyi/machine-learning-a-z/tree/main/07-natural-language-processing/)
 - **Part 8 - Deep Learning**
-  - Artificial Neural Networks
+  - [Artificial Neural Networks: Bank Customer Churn Analysis](https://github.com/marilynyi/machine-learning-a-z/tree/main/08-deep-learning/08-01-artificial-neural-networks)
   - Convolutional Neural Networks
 - **Part 9 - Dimensionality Reduction**
   - PCA
