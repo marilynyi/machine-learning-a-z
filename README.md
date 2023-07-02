@@ -51,7 +51,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Bag-of-words model and NLP: Sentiment Analysis of Restaurant Reviews](https://github.com/marilynyi/machine-learning-a-z/tree/main/07-natural-language-processing/)
 - **Part 8 - Deep Learning**
   - [Artificial Neural Networks: Bank Customer Churn Analysis](https://github.com/marilynyi/machine-learning-a-z/tree/main/08-deep-learning/08-01-artificial-neural-networks)
-  - Convolutional Neural Networks
+  - [Convolutional Neural Networks: Dog/Cat Classifier](https://github.com/marilynyi/machine-learning-a-z/tree/main/08-deep-learning/08-02-convolutional-neural-networks)
 - **Part 9 - Dimensionality Reduction**
   - PCA
   - LDA

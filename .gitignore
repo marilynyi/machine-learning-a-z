@@ -3,3 +3,4 @@ Section*/
 *.DS_Store
 templates*/
 notes.txt
+config/
