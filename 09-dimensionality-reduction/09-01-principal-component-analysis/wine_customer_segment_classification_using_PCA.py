@@ -1,4 +1,8 @@
-# Principal Component Analysis (PCA)
+"""
+####################################################
+09.01 Wine Customer Segment Classification using PCA
+####################################################
+"""
 
 # Importing the libraries
 import numpy as np
@@ -38,7 +42,7 @@ cm = confusion_matrix(y_test, y_pred)
 print(cm)
 accuracy_score(y_test, y_pred)
 
-# Visualising the Training set results
+# Visualizing the Training set results
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_train, y_train
 X1, X2 = np.meshgrid(np.arange(start = X_set[:, 0].min() - 1, stop = X_set[:, 0].max() + 1, step = 0.01),
@@ -56,7 +60,7 @@ plt.ylabel('PC2')
 plt.legend()
 plt.show()
 
-# Visualising the Test set results
+# Visualizing the Test set results
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_test, y_test
 X1, X2 = np.meshgrid(np.arange(start = X_set[:, 0].min() - 1, stop = X_set[:, 0].max() + 1, step = 0.01),

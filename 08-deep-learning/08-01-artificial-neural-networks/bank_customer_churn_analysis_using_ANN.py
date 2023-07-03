@@ -3,10 +3,15 @@
 08.01 Bank Customer Churn Analysis using ANN
 ############################################
 """
+
 # Importing the libraries
 import numpy as np
 import pandas as pd
 import tensorflow as tf
+
+# ------------------------------------------------------------------------- #
+# Part 1 - Data Preprocessing
+# ------------------------------------------------------------------------- #
 
 # Importing the dataset
 dataset = pd.read_csv('Churn_Modelling.csv')
@@ -34,6 +39,10 @@ sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
+# ------------------------------------------------------------------------- #
+# Part 2 - Building the ANN
+# ------------------------------------------------------------------------- #
+
 # Initializing the ANN
 ann = tf.keras.models.Sequential()
 
@@ -46,11 +55,19 @@ ann.add(tf.keras.layers.Dense(units=6, activation='relu'))
 # Adding the output layer
 ann.add(tf.keras.layers.Dense(units=1, activation='sigmoid'))
 
+# ------------------------------------------------------------------------- #
+# Part 3 - Training the ANN
+# ------------------------------------------------------------------------- #
+
 # Compiling the ANN
 ann.compile(optimizer = 'adam', loss = 'binary_crossentropy', metrics = ['accuracy'])
 
 # Training the ANN on the Training set
 ann.fit(X_train, y_train, batch_size = 32, epochs = 100)
+
+# ------------------------------------------------------------------------- #
+# Part 4 - Making the predictions and evaluating the model 
+# ------------------------------------------------------------------------- #
 
 # Predicting the result of a single observation
 print(ann.predict(sc.transform([[1, 0, 0, 600, 1, 40, 3, 60000, 2, 1, 1, 50000]])) > 0.5)
