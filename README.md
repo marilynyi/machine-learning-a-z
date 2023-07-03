@@ -53,7 +53,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Artificial Neural Networks: Bank Customer Churn Analysis](https://github.com/marilynyi/machine-learning-a-z/tree/main/08-deep-learning/08-01-artificial-neural-networks)
   - [Convolutional Neural Networks: Dog/Cat Classifier](https://github.com/marilynyi/machine-learning-a-z/tree/main/08-deep-learning/08-02-convolutional-neural-networks)
 - **Part 9 - Dimensionality Reduction**
-  - PCA
+  - [PCA: Wine Customer Segment Classification](https://github.com/marilynyi/machine-learning-a-z/tree/main/09-dimensionality-reduction/09-01-principal-component-analysis)
   - LDA
   - Kernel PCA
 - **Part 10 - Model Selection & Boosting**
