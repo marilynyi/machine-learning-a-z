@@ -54,7 +54,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [Convolutional Neural Networks: Dog/Cat Classifier](https://github.com/marilynyi/machine-learning-a-z/tree/main/08-deep-learning/08-02-convolutional-neural-networks)
 - **Part 9 - Dimensionality Reduction**
   - [PCA: Wine Customer Segment Classification](https://github.com/marilynyi/machine-learning-a-z/tree/main/09-dimensionality-reduction/09-01-principal-component-analysis)
-  - LDA
+  - [LDA: Wine Customer Segment Classification](https://github.com/marilynyi/machine-learning-a-z/tree/main/09-dimensionality-reduction/09-02-linear-discriminant-analysis)
   - Kernel PCA
 - **Part 10 - Model Selection & Boosting**
   - k-fold Cross Validation
