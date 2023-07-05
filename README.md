@@ -55,7 +55,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
 - **Part 9 - Dimensionality Reduction**
   - [PCA: Wine Customer Segment Classification](https://github.com/marilynyi/machine-learning-a-z/tree/main/09-dimensionality-reduction/09-01-principal-component-analysis)
   - [LDA: Wine Customer Segment Classification](https://github.com/marilynyi/machine-learning-a-z/tree/main/09-dimensionality-reduction/09-02-linear-discriminant-analysis)
-  - Kernel PCA
+  - [Kernel PCA: Wine Customer Segment Classification](https://github.com/marilynyi/machine-learning-a-z/tree/main/09-dimensionality-reduction/09-03-kernel-PCA)
 - **Part 10 - Model Selection & Boosting**
   - k-fold Cross Validation
   - Parameter Tuning
