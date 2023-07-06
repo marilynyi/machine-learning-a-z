@@ -57,7 +57,6 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
   - [LDA: Wine Customer Segment Classification](https://github.com/marilynyi/machine-learning-a-z/tree/main/09-dimensionality-reduction/09-02-linear-discriminant-analysis)
   - [Kernel PCA: Wine Customer Segment Classification](https://github.com/marilynyi/machine-learning-a-z/tree/main/09-dimensionality-reduction/09-03-kernel-PCA)
 - **Part 10 - Model Selection & Boosting**
-  - k-fold Cross Validation
-  - Parameter Tuning
-  - Grid Search
+  - [k-fold Cross Validation: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/10-model-selection-and-boosting/10-01-model-selection)
+  - [Parameter Tuning and Grid Search: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/10-model-selection-and-boosting/10-02-parameter-tuning-w-grid-search)
   - XGBoost
