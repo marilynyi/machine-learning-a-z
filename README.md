@@ -2,6 +2,8 @@
 
 This repository houses all guided projects I have written during the [Machine Learning A-Z course](https://www.udemy.com/course/machinelearning/) on Udemy.
 
+<details><summary>Course Details</summary>
+  
 >The course aims to fulfill the following learning objectives:
 >
 >- What you’ll learn
@@ -16,8 +18,9 @@ This repository houses all guided projects I have written during the [Machine Le
 >- Handle advanced techniques like Dimensionality Reduction
 >- Know which Machine Learning model to choose for each type of problem
 >- Build an army of powerful Machine Learning models and know how to combine them to solve any problem
+</details>
 
-# Current Progress
+# Sections
 
 Jupyter Notebooks and Python files are personally written while .csv data files are provided by the course.
 
