@@ -59,4 +59,4 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
 - **Part 10 - Model Selection & Boosting**
   - [k-fold Cross Validation: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/10-model-selection-and-boosting/10-01-model-selection)
   - [Parameter Tuning and Grid Search: Car Purchase Prediction](https://github.com/marilynyi/machine-learning-a-z/tree/main/10-model-selection-and-boosting/10-02-parameter-tuning-w-grid-search)
-  - XGBoost
+  - [XGBoost: Breast Cancer Detection](https://github.com/marilynyi/machine-learning-a-z/tree/main/10-model-selection-and-boosting/10-03-xgboost)
