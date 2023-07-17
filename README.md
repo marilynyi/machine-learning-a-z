@@ -6,7 +6,6 @@ This repository houses all guided projects I have written during the [Machine Le
   
 >The course aims to fulfill the following learning objectives:
 >
->- What you’ll learn
 >- Master Machine Learning on Python & R
 >- Have a great intuition of many Machine Learning models
 >- Make accurate predictions

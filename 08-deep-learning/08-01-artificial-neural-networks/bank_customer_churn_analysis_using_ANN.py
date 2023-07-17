@@ -1,7 +1,7 @@
 """
-############################################
-08.01 Bank Customer Churn Analysis using ANN
-############################################
+######################################
+Bank Customer Churn Analysis using ANN
+######################################
 """
 
 # Importing the libraries
@@ -70,6 +70,16 @@ ann.fit(X_train, y_train, batch_size = 32, epochs = 100)
 # ------------------------------------------------------------------------- #
 
 # Predicting the result of a single observation
+#   Geography: France ([1, 0, 0])
+#   Credit Score: 600
+#   Gender: Male
+#   Age: 40 years old
+#   Tenure: 3 years
+#   Balance: $60,000
+#   Number of Products: 2
+#   Does this customer have a credit card? Yes
+#   Is this customer an Active Member: Yes
+#   Estimated Salary: $50,000
 print(ann.predict(sc.transform([[1, 0, 0, 600, 1, 40, 3, 60000, 2, 1, 1, 50000]])) > 0.5)
 
 # Predicting the Test set results

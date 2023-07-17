@@ -1,7 +1,7 @@
 """
-##################################
-08.02 Dog/Cat Classifier using CNN
-##################################
+###################################
+08.02. Dog/Cat Classifier using CNN
+###################################
 """
 
 # Importing the libraries
@@ -9,21 +9,19 @@ from IPython.display import Image, display
 import tensorflow as tf
 from keras.preprocessing.image import ImageDataGenerator
 import numpy as np
-import pandas as pd
 from keras.preprocessing import image
 
 # -------------------------------------------------------------------------------#
 # Part 1 - Data Preprocessing
 # -------------------------------------------------------------------------------#
 
-# Use abridged datatset by default
-use_full_set = False
-
+# Toggle between abridged and full dataset
+use_full_set = True
 if use_full_set == True:
-    data_path = "config" # hidden folder
+    data_path = "config/dataset"
 else:
     data_path = "dataset"
-
+    
 # Preprocessing the Training set
 train_datagen = ImageDataGenerator(rescale = 1./255,
                                    shear_range = 0.2,
@@ -87,9 +85,9 @@ img_path = f'{data_path}/single_prediction/cat_or_dog_{img_num}.jpeg'
 test_image = image.load_img(img_path, target_size = (64, 64))
 test_image = image.img_to_array(test_image)
 test_image = np.expand_dims(test_image, axis = 0)
-result = cnn.predict(test_image)
+result = cnn.predict(test_image/255.0)
 training_set.class_indices
-if result[0][0] == 1:
+if result[0][0] > 0.5:
   prediction = 'dog'
 else:
   prediction = 'cat'

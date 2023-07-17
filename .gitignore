@@ -1,7 +1,9 @@
 Section*/
 *.pdf
 *.DS_Store
+*_DS_Store
 templates*/
 notes.txt
 config/
 catboost_info/
+.ipynb_checkpoints/
